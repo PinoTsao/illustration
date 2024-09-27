@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16">
   <diagram name="Page-1" id="hRbeO7M7XeFGXVpJA-kB">
-    <mxGraphModel dx="819" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="d2hyBHluOUNxCQltdhUX-61" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;server 4&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="156" y="250" width="45" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="d2hyBHluOUNxCQltdhUX-63" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;all servers&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
+        <mxCell id="d2hyBHluOUNxCQltdhUX-63" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Times New Roman&quot;&gt;all servers &amp;amp; other FGT&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="530" y="177" width="50" height="39" as="geometry" />
         </mxCell>
         <mxCell id="d2hyBHluOUNxCQltdhUX-64" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=1.014;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="d2hyBHluOUNxCQltdhUX-51" target="d2hyBHluOUNxCQltdhUX-63" edge="1">
@@ -127,7 +127,7 @@
             <mxPoint x="574" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d2hyBHluOUNxCQltdhUX-65" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;10.59.145.0/24&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;all server&#39;s OOB port&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d2hyBHluOUNxCQltdhUX-64" vertex="1" connectable="0">
+        <mxCell id="d2hyBHluOUNxCQltdhUX-65" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;10.59.145.0/24&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot; face=&quot;Times New Roman&quot;&gt;all OOB ports&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d2hyBHluOUNxCQltdhUX-64" vertex="1" connectable="0">
           <mxGeometry x="-0.0208" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -148,10 +148,10 @@
           <mxGeometry x="454" y="362" width="50" height="22" as="geometry" />
         </mxCell>
         <mxCell id="d2hyBHluOUNxCQltdhUX-74" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;server 1&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
-          <mxGeometry x="657" y="367" width="60" height="49" as="geometry" />
+          <mxGeometry x="630" y="364" width="53" height="43" as="geometry" />
         </mxCell>
         <mxCell id="d2hyBHluOUNxCQltdhUX-75" value="&lt;font face=&quot;Times New Roman&quot;&gt;two other servers&lt;br&gt;&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
-          <mxGeometry x="630" y="442" width="60" height="49" as="geometry" />
+          <mxGeometry x="630" y="442" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="d2hyBHluOUNxCQltdhUX-78" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="d2hyBHluOUNxCQltdhUX-69" target="d2hyBHluOUNxCQltdhUX-75" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
